@@ -38,3 +38,7 @@
 - Age: 14
 - Favorite Food: Cake
 ---
+- [syd645](https://github.com/syd645)
+- Age: 17
+- Favorite Food: Chicken Nuggets
+---
